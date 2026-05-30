@@ -1,1 +1,0 @@
-vless://794efcfc-3442-447e-9e0e-6510f6d331c3@pnl.moshakshop.tr:443?encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=&type=ws#nadombe
