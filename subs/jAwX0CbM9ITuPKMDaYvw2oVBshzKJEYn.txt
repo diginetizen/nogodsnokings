@@ -1,1 +1,0 @@
-vless://1e0f83c6-56c4-4482-8de9-992ac923aea9@pnl.moshakshop.tr:443?encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=&type=ws#test
