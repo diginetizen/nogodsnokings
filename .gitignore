@@ -1,0 +1,22 @@
+# gitsub — never commit these
+config.json
+submap.json
+sync_status.json
+venv/
+.venv/
+logs/
+ssl/
+*.pyc
+*.pyo
+__pycache__/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.bak
+update.py
+webui.py
+requirements.txt
+uninstall.sh
+install.sh
+version.txt
